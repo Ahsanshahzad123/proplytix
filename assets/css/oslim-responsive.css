@@ -191,15 +191,7 @@
         right: 80px;
     }
 
-
-
-
-
 }
-
-
-
-
 
 /* Tablet Layout: 768px. */
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -488,18 +480,7 @@
         right: 80px;
     }
 
-
-
-
-
-
-
 }
-
-
-
-
-
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
@@ -1083,22 +1064,7 @@
         right: 80px;
     }
 
-
-
-
-
-
-
-
-
-
 }
-
-
-
-
-
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1260px) {
     .team-one__social {
@@ -1106,10 +1072,7 @@
         right: 30px;
     }
 
-
-
 }
-
 
 @media only screen and (min-width: 1200px) and (max-width: 1400px) {
     .case-three .case-one__content {
@@ -1120,16 +1083,7 @@
         right: 80px;
     }
 
-
-
-
-
-
 }
-
-
-
-
 
 /*--------------------------------------------------------------
 # Slider All Responsice Css
@@ -1153,7 +1107,6 @@
     }
 
 }
-
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     #main-slider-pagination {
@@ -1189,14 +1142,7 @@
         max-width: 960px;
     }
 
-
-
 }
-
-
-
-
-
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     #main-slider-pagination {
@@ -1237,14 +1183,7 @@
         max-width: 720px;
     }
 
-
-
-
-
-
 }
-
-
 
 @media only screen and (max-width: 767px) {
     #main-slider-pagination {
@@ -1330,19 +1269,7 @@
         display: none;
     }
 
-
-
-
-
-
-
 }
-
-
-
-
-
-
 
 /*--------------------------------------------------------------
 # Main Menu All Responsice Css
@@ -1356,22 +1283,13 @@
         margin-left: 0;
     }
 
-
-
-
-
 }
-
-
-
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
     .main-menu .mobile-nav__toggler {
         padding: 36px 0;
         display: inline-block;
     }
-
-
 
     .main-menu-two .mobile-nav__toggler {
         padding: 18px 0 13px;
@@ -1381,8 +1299,6 @@
     .main-menu-three .mobile-nav__toggler:hover {
         color: var(--oslim-black);
     }
-
-
 
 }
 
@@ -1411,18 +1327,7 @@
         color: var(--oslim-black);
     }
 
-
-
-
-
-
-
-
-
 }
-
-
-
 
 @media (max-width: 767px) {
     .main-menu .mobile-nav__toggler {
@@ -1488,7 +1393,5 @@
     .main-menu-three .mobile-nav__toggler:hover {
         color: var(--oslim-black);
     }
-
-
 
 }
