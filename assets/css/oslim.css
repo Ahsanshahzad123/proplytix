@@ -1678,6 +1678,11 @@ input[type="search"]::-webkit-search-results-decoration {
     z-index: 30;
 }
 
+.background_video {
+    position: absolute;
+    z-index: -1;
+}
+
 /* .main-slider .image-layer {
     position: absolute;
     top: 0;
