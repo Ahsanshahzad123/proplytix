@@ -1668,7 +1668,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 .main-slider .swiper-slide {
     position: relative;
-    background-color: var(--oslim-black);
+    /* background-color: var(--oslim-black); */
 }
 
 .main-slider .container {
