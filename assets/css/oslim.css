@@ -1785,8 +1785,8 @@ input[type="search"]::-webkit-search-results-decoration {
     transform: translateY(-120px);
     transition-delay: 1000ms;
     transition: transform 2000ms ease, opacity 2000ms ease;
-    font-size: 120px;
-    line-height: 120px;
+    font-size: 110px;
+    line-height: 110px;
 }
 
 .main-slider .thm-btn {
