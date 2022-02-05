@@ -1335,9 +1335,9 @@
         display: inline-block;
     }
 
-    .main-menu-wrapper__right {
+    /* .main-menu-wrapper__right {
         display: none;
-    }
+    } */
 
     .main-menu-wrapper__logo {
         margin-right: 0px;
